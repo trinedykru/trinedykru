@@ -3,5 +3,5 @@ My background is in Product Design and UX. Creating useful and delightful experi
 
 - Progamming ... HTML | CSS | JavaScript | PHP | Python | Swift
 - Design ... Adobe Photoshop | Illustrator | Figma | InDesign | Lightroom | Wordpress  
-- Say hey ... trinedy@wideload.com
+- Say hey ... hey@ubebread.com
 - or pay ... trinedy.eth
